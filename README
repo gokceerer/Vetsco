@@ -1,0 +1,9 @@
+Vetsco (Verilog To Spice Converter)
+-----------------------------------
+Vetsco is a tool that converts a structural Verilog netlist into a Spice netlist using the LibNanGate45nm library and does simulations
+using ngspice in the background. The tool plots the power of the circuit and the voltages of the input, outputs of the circuit. 
+Be aware:
+-To use this tool Ngspice has to be downloaded since the simulations are done on there.
+-The netlist must be written with the gates provided in LibNanGate45nm.
+-The input and outputs must be one bit (for now)
+-For verilog only structural version must be used, other types are not provided yet.

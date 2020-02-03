@@ -1,4 +1,4 @@
-                                                      Vetsco (Verilog To Spice Converter)
+                                                 Vetsco (Verilog To Spice Converter)
 --------------------------------------------------------------------------------------------------------------------------------------
 Vetsco is a tool that converts a structural Verilog netlist into a Spice netlist using the LibNanGate45nm library and does simulations
 using ngspice in the background. The tool plots the power of the circuit and the voltages of the input, outputs of the circuit. 

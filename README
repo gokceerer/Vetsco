@@ -7,3 +7,4 @@ Be aware:
 -The netlist must be written with the gates provided in LibNanGate45nm.
 -The input and outputs must be one bit (for now)
 -For verilog only structural version must be used, other types are not provided yet.
+-To open the project QTCreator must be used since UI is designed with QTCreator.
